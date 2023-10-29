@@ -12,6 +12,10 @@ To perform Matrix addition with unified memory and check its performance with nv
 5. Execute the program and run the terminal.
 
 ## PROGRAM
+```
+Developed by: Lakshmi priya
+Reg no: 212221230053
+```
 ### With Memset
 ```cuda
 %%cu
